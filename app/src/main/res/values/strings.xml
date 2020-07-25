@@ -1,4 +1,5 @@
 <resources>
+<!--    here define all the string value -->
     <string name="app_name">ColorMyViews</string>
     <string name="box_one">Box One</string>
     <string name="box_two">Box Two</string>
